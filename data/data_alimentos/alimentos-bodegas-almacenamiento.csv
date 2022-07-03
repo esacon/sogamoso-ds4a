@@ -1,0 +1,6 @@
+motivo;n_acta;fecha_visita;fecha_ingreso;n_inscripcion;zona;barrio  ;local_const;condicion_p_p_d;techos_puert_ilumi_venti ;instal_sanita ;edificios_instal;capacidad_dis_fun_equi_uten;equip_utens;estado_salud ;recon_medic;pract_higie_dota ;capaci_mani_higie_alim;pers_mani_aliment;recep_req_leg;condi_almac;cons_product;req_higien;sumin_agua_pot;resid_liqui;resid_soli;control_plag;limpie_des_area;soport_doc_sanea;saneamiento;p_cumplimiento
+SOLICITUD;1;9/07/2020;29/07/2020;1,57597E+11;URBANA;CHAPINERO;2;1;1;1;10,5;2;7;2;0;2;0;16;2;2;2;23;1;2;0;2;2;0;22,5;79
+SEGUIMIENTO;2;18/07/2020;5/08/2020;1,57597E+11;URBANA;CENTRO;2;1;1;1;10,5;1;3,5;2;1;1;2;16,5;1;1;2;15,5;2;2;1;2;0;0;12;58
+SOLICITUD;3;22/07/2020;5/08/2020;1,57597E+11;URBANA;CENTRO;2;1;2;2;15;1;3,5;2;1;1;2;16,5;1;2;2;19,5;2;2;2;2;2;1;30;84,5
+SEGUIMIENTO;4;13/11/2020;12/12/2020;1,57597E+11;URBANA;CENTRO;2;2;2;2;17;2;7;2;1;2;2;20,5;1;2;2;19,5;2;2;2;2;2;1;29;93
+SEGUIMIENTO;5;11/11/2020;12/12/2020;157597424565/8;URBANA;CENTRO;2;1;2;2;15;1;3,5;2;1;1;2;16,5;1;2;2;19,5;2;2;2;2;1;1;18;72,5

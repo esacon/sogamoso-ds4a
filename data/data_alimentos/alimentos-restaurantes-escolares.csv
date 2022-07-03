@@ -1,0 +1,7 @@
+motivo;n_acta;fecha_visita;fecha_ingreso;n_inscripcion;zona;barrio  ;local_const;condicion_p_p_d;techos_puert_ilumi_venti ;instal_sanita ;edificios_instal;capacidad_dis_fun_equi_uten;superf_con_alime;equip_utens;estado_salud ;recon_medic;pract_higie_dota ;capaci_mani_higie_alim;pers_mani_aliment;control_mat_pri;preven_contam;mane_temp;condi_almac;req_higien;sumin_agua_pot;resid_liqui;resid_soli;control_plag;limpie_des_area;soport_doc_sanea;saneamiento;p_cumplimiento
+PROGRAMACION;1;10/03/2020;11/05/2020;NO PRESENTA;URBANO;MAGDALENA;2;1;1;2;6;1;2;9,5;2;2;2;2;20;1;2;2;1;20,5;2;2;1;2;1;1;26,5;82,5
+PROGRAMACION;2;5/03/2020;11/05/2020;NO PRESENTA;URBANO;LOS ALISOS;1;1;2;2;6;1;2;9,5;2;2;2;2;20;2;2;2;1;23;1;2;1;2;1;1;23;81,5
+PROGRAMACION;3;28/02/2020;11/05/2020;1,57598E+14;URBANO;VENECIA;1;1;1;2;5;1;1;6;2;2;2;2;20;1;2;0;1;13,5;1;2;1;2;1;1;23;67,5
+PROGRAMACION;4;28/02/2020;11/05/2020;NO PRESENTA;URBANO;VANEGAS;2;1;1;1;6;2;2;12;2;2;2;1;18;1;2;0;1;13,5;1;2;1;2;1;1;23;72,5
+PROGRAMACION;5;27/02/2020;11/05/2020;NO PRESENTA;URBANO;LAS AMERICAS;1;1;1;2;5;1;1;6;2;2;1;2;16,5;1;2;1;2;19;2;1;2;2;1;2;27,5;74
+PROGRAMACION;6;12/05/2020;30/05/2020;NO PRESENTA;URBANO;UNIVERSITARIO;2;2;2;2;10,5;2;2;7;2;2;2;2;22;1;2;0;2;21;1;2;1;2;1;1;27,5;91

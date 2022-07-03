@@ -1,0 +1,6 @@
+flask
+gunicorn 
+sqlalchemy
+pymssql
+pyodbc
+cryptography

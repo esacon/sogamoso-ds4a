@@ -9,6 +9,8 @@ package-lock.json
 
 # production
 /build
+__pycache__
+**/__pycache__
 
 # misc
 .eslintcache
